@@ -1,6 +1,6 @@
 {
   "name": "await-catch-loader",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "统一处理await形式promise，捕获错误",
   "main": "./dist/index.js",
   "scripts": {

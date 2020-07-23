@@ -1523,6 +1523,18 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
+await-catch-loader@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/await-catch-loader/-/await-catch-loader-1.0.1.tgz#44f24dfd133108e9d6c26ff8487ff279ac43edf7"
+  integrity sha512-pRCE6b2JKpfSoQu+Dmrr8+sgghqFsiD3EvNOMYlxafMjESYrdmUud7xiAC+EgKfOxli9rBa6+vR80SOkhH3QYQ==
+
+await-catch-loader@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/await-catch-loader/-/await-catch-loader-1.0.2.tgz#6f9b1e28297489e166da97f8d0f1b7e1db605129"
+  integrity sha512-UVob/1ml8zNoUBc1T9WrjIfSHKiaa4DGWqhW6HhLl12gqiTgryx5mFTO06wbpj2uAItXiRh0xO/bqQSB8viHbw==
+  dependencies:
+    await-catch-loader "^1.0.1"
+
 aws-sign2@~0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/aws-sign2/-/aws-sign2-0.7.0.tgz#b46e890934a9591f2d2f6f86d7e6a9f1b3fe76a8"
